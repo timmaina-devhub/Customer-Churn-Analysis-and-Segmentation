@@ -55,11 +55,11 @@ The dataset contains customer transaction data, including:
 
 **Segments:**
 
-* High-Value Loyal Customers
+* Loyal High-Value Customers
 * At-Risk Customers
 * New Customers
-* Low-Value Customers
-* Inactive Customers
+* Discount-Seekers Customers
+* Occassional Customers
 
 ---
 
