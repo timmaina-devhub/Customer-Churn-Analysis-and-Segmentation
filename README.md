@@ -4,14 +4,6 @@
 
 This project analyzes customer behavior to identify churn drivers, segment customers, and provide actionable recommendations to improve retention and revenue.
 
----
-
-## Dashboard Preview
-
-![Dashboard Preview](./assets/dashboard-preview.png)
-
----
-
 ## Objectives
 
 * Identify key drivers of customer churn
@@ -118,6 +110,21 @@ The dataset contains customer transaction data, including:
 * Data Visualization (Dashboard Development)
 
 ---
+---
+
+## Project Structure
+
+```
+/Customer-Segmentation and churn Prediction
+│
+├── README.md
+├── customer-analysis.png
+├── /data
+├── /notebooks
+└── /dashboard
+```
+
+---
 
 ## Project Workflow
 
@@ -127,3 +134,17 @@ The dataset contains customer transaction data, including:
 * Customer Segmentation
 * Dashboard Development
 * Insights and Recommendations
+
+
+---
+
+## Dashboard Preview
+
+![Dashboard Preview](./customer-analysis.png)
+
+---
+
+
+
+
+
