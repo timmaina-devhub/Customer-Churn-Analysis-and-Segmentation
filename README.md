@@ -110,7 +110,6 @@ The dataset contains customer transaction data, including:
 * Data Visualization (Dashboard Development)
 
 ---
----
 
 ## Project Structure
 
