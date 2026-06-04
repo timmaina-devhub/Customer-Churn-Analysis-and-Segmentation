@@ -142,6 +142,12 @@ The dataset contains customer transaction data, including:
 ![Dashboard Preview](./customer-analysis.png)
 
 ---
+## Project API Repository
+
+* The API repository for this project is at: <a> href='https://github.com/timmaina-devhub/churn_predict_app' LINK</a>
+
+
+---
 
 
 
